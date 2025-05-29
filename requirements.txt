@@ -1,1 +1,6 @@
-
+flask==2.0.1
+torch==1.10.0
+opencv-python==4.5.4.58
+mediapipe==0.8.9
+ultralytics==8.0.0
+scikit-learn==1.0.1
